@@ -13,4 +13,3 @@ function doubles(array){
 
   //Test
   doubles([1,2,3])
-  console.log(doubles([1,2,3]),[4,6,8])
